@@ -1,0 +1,17 @@
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\bin\Debug\AutoClicker.exe.config
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\bin\Debug\AutoClicker.exe
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\bin\Debug\AutoClicker.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\bin\Debug\AutoClicker.xml
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.Resources.resources
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.vbproj.GenerateResource.Cache
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.exe
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.xml
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.AutoClickerForm.resources
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.vbprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.Pivot.resources
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.AutoSwitcherForm.resources
+C:\Users\Programista\Documents\Visual Studio 2015\Projects\AutoClickerSolution\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Programista\Documents\Visual Studio 2015\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\Programista\Documents\Visual Studio 2015\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.xml
+C:\Users\Programista\Documents\Visual Studio 2015\Projects\AutoClickerSolution\AutoClicker\obj\Debug\AutoClicker.pdb
